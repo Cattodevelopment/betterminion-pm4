@@ -1,0 +1,16 @@
+name: BetterMinion
+version: 0.0.1
+main: Mcbeany\BetterMinion\BetterMinion
+api: 4.0.0
+src-namespace-prefix: Mcbeany\BetterMinion
+softdepend:
+  - Capital
+  - BedrockEconomy
+  - EconomyAPI
+permissions:
+  betterminion.commands:
+    default: op
+  betterminion.commands.give:
+    default: op
+  betterminion.commands.remove:
+    default: op
