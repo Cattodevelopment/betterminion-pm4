@@ -1,0 +1,4 @@
+language: "eng"
+minion-spawner: "nether_star"
+minion-size: 0.5
+economy-provider: "bedrockeconomy"
